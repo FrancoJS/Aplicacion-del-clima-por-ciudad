@@ -1,6 +1,6 @@
 ## Aplicacion del Clima
 
-Indica la temperatura de una ciudad
+Indica la temperatura de una ciudad en tiempo real
 
 Ejecutar el siguiente comando para las dependecias
 
